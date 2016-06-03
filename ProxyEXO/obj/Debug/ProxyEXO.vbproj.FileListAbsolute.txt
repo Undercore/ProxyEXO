@@ -1,0 +1,11 @@
+c:\users\_\documents\visual studio 2015\Projects\ProxyEXO\ProxyEXO\bin\Debug\ProxyEXO.exe.config
+c:\users\_\documents\visual studio 2015\Projects\ProxyEXO\ProxyEXO\bin\Debug\ProxyEXO.exe
+c:\users\_\documents\visual studio 2015\Projects\ProxyEXO\ProxyEXO\bin\Debug\ProxyEXO.pdb
+c:\users\_\documents\visual studio 2015\Projects\ProxyEXO\ProxyEXO\bin\Debug\ProxyEXO.xml
+c:\users\_\documents\visual studio 2015\Projects\ProxyEXO\ProxyEXO\obj\Debug\ProxyEXO.vbprojResolveAssemblyReference.cache
+c:\users\_\documents\visual studio 2015\Projects\ProxyEXO\ProxyEXO\obj\Debug\ProxyEXO.MainForm.resources
+c:\users\_\documents\visual studio 2015\Projects\ProxyEXO\ProxyEXO\obj\Debug\ProxyEXO.Resources.resources
+c:\users\_\documents\visual studio 2015\Projects\ProxyEXO\ProxyEXO\obj\Debug\ProxyEXO.vbproj.GenerateResource.Cache
+c:\users\_\documents\visual studio 2015\Projects\ProxyEXO\ProxyEXO\obj\Debug\ProxyEXO.exe
+c:\users\_\documents\visual studio 2015\Projects\ProxyEXO\ProxyEXO\obj\Debug\ProxyEXO.xml
+c:\users\_\documents\visual studio 2015\Projects\ProxyEXO\ProxyEXO\obj\Debug\ProxyEXO.pdb
